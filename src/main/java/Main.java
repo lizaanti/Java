@@ -5,5 +5,11 @@ public class Main {
         //TaskThree.multiplicationTable();
         //TaskFour.sumOfNumbers();
         //TaskFive.fibonacciNumber();
+        //TaskSix.checkSimpleNumber();
+        //TaskSeven.reverseOrder();
+        //TaskEight.sumOfPositiveNumbers();
+        //TaskNine.reverseLine();
+        //TaskTen.numOfDigits();
+        //TaskEleven.factorial();
     }
 }
