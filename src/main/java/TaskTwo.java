@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class TaskTwo {
-    static void FindMinNum(){
+    static void findMinNum(){
         try(Scanner scanner = new Scanner(System.in)){
             System.out.println("Введите три числа: ");
             int firstNum = scanner.nextInt();
