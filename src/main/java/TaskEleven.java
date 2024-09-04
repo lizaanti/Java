@@ -2,21 +2,15 @@ import java.util.Scanner;
 
 public class TaskEleven {
     static void factorial(){
-        try(Scanner scanner = new Scanner(System.in)){
+        try(Scanner scanner = new Scanner(System.in)) {
             System.out.println("Введите число");
             int N = scanner.nextInt();
-            if(N == 0 || N == 1){
-                System.out.println(1);
+            long factorial = 1;
+            for (int i = 1; i <= N; i++) {
+                factorial *= i;
             }
-            else{
-                int count = 1;
-                while (N > 0) {
-                    for (int i = 0; i < N; i--) {
-                        count *= i;
-                    }
-                }
 
-            }
+            System.out.println("Факториал числа " + N + " равен: " + factorial);
         }
     }
 }

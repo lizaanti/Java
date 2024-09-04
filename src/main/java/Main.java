@@ -11,5 +11,14 @@ public class Main {
         //TaskNine.reverseLine();
         //TaskTen.numOfDigits();
         //TaskEleven.factorial();
+        //TaskTwelve.summOfDigits();
+        //TaskThirteen.palindrom();
+        //TaskFourteen.maxNumInArr();
+        //TasfFifteen.sumAllNumOfArray();
+        //TaskSixteen.sumOfnum();
+        //TaskSeventeen.sumOfSimpleNumInDiap();
+        //TaskEighteen.countingVowelsAndConsonants();
+        //TaskNineteen.reverseWordsOrder();
+        //TaskTwenty.armstrong();
     }
 }
