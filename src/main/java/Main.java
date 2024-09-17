@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
         //TaskOne.checkingForAnEvenNumber();
         //TaskTwo.findMinNum();
-        //TaskThree.multiplicationTable();
+        TaskThree.multiplicationTable();
         //TaskFour.sumOfNumbers();
         //TaskFive.fibonacciNumber();
         //TaskSix.checkSimpleNumber();
@@ -20,5 +20,7 @@ public class Main {
         //TaskEighteen.countingVowelsAndConsonants();
         //TaskNineteen.reverseWordsOrder();
         //TaskTwenty.armstrong();
+
+
     }
 }
